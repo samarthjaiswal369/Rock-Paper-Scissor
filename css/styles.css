@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #f5f5f5;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+button {
+  margin-right: 10px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.result-area {
+  margin-bottom: 20px;
+}
+
+.result-area p {
+  margin: 4px 0;
+}
+
+.history {
+  margin-top: 20px;
+}
+
+.history ul {
+  padding-left: 20px;
+}
+
+.history li {
+  margin-bottom: 4px;
+}
